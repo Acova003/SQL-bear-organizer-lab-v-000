@@ -42,5 +42,5 @@ end
 
 def selects_bear_that_killed_Tim
   "Write your SQL query here"
-  "SELECT * from bears WHERE name = NULL;"
+  "SELECT * from bears WHERE name IS NULL;"
 end
